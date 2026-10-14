@@ -1,0 +1,26 @@
+company,domain,tier,min_cgpa,min_10th,min_12th,max_backlogs,required_skills,min_lpa,max_lpa
+Google,AI/ML,Tier 1,8.0,75.0,75.0,0,python|machine learning|c++|data structures|algorithms|deep learning,24.0,36.0
+Microsoft,Cloud/DevOps,Tier 1,7.8,70.0,70.0,0,azure|c++|c#|docker|kubernetes|data structures,20.0,32.0
+Amazon,Web Dev,Tier 1,7.5,70.0,70.0,0,java|aws|react|data structures|distributed systems|system design,18.0,28.0
+Adobe,Web Dev,Tier 1,7.5,70.0,70.0,0,javascript|react|node.js|c++|data structures|algorithms,16.0,26.0
+Flipkart,Data Science,Tier 1,7.5,65.0,65.0,0,python|sql|pandas|machine learning|numpy|statistics,15.0,24.0
+Cisco,Cyber Security,Tier 1,7.5,70.0,70.0,0,networking|python|c++|ethical hacking|linux|cyber security,14.0,22.0
+Qualcomm,Core Engineering,Tier 1,7.8,70.0,70.0,0,c++|c|embedded systems|verilog|linux|microcontrollers,15.0,25.0
+Oracle,Cloud/DevOps,Tier 2,7.0,65.0,65.0,1,java|sql|linux|docker|cloud|database management,9.0,13.5
+SAP Labs,Web Dev,Tier 2,7.0,65.0,65.0,1,javascript|react|sql|java|rest api|git,8.5,13.0
+Zomato,Web Dev,Tier 2,6.8,60.0,60.0,1,python|django|react|sql|git|docker,8.0,12.5
+JPMorgan Chase,Data Science,Tier 2,7.2,65.0,65.0,0,python|sql|excel|power bi|pandas|financial modeling,10.0,14.0
+Palo Alto Networks,Cyber Security,Tier 2,7.0,65.0,65.0,0,networking|linux|python|firewalls|cyber security|cryptography,10.0,13.5
+Mu Sigma,Data Science,Tier 2,6.5,60.0,60.0,1,python|sql|statistics|machine learning|excel|visualization,7.5,10.0
+ThoughtWorks,Web Dev,Tier 2,6.5,60.0,60.0,1,java|javascript|clean code|tdd|react|spring boot,8.0,12.0
+L&T Technology Services,Core Engineering,Tier 2,6.8,60.0,60.0,1,autocad|solidworks|c|matlab|embedded systems|mechanical design,6.5,9.0
+BrowserStack,Testing/QA,Tier 2,6.8,60.0,60.0,1,selenium|java|python|automation testing|api testing|jenkins,8.0,12.0
+Tata Consultancy Services (TCS Ninja),Web Dev,Tier 3,6.0,60.0,60.0,1,c|java|python|sql|html|css,3.6,4.5
+TCS Digital,AI/ML,Tier 3,6.5,60.0,60.0,0,python|machine learning|sql|cloud|data structures,7.0,7.5
+Infosys,Web Dev,Tier 3,6.0,60.0,60.0,1,java|python|sql|javascript|html|css,3.6,5.0
+Wipro,Testing/QA,Tier 3,6.0,60.0,60.0,1,c++|java|manual testing|sql|software testing,3.5,4.5
+Cognizant,Cloud/DevOps,Tier 3,6.0,60.0,60.0,1,cloud basics|python|linux|networking|sql,4.0,5.5
+Capgemini,Web Dev,Tier 3,6.0,60.0,60.0,1,c|c++|java|sql|javascript|web development,4.0,5.0
+Accenture,Web Dev,Tier 3,6.0,60.0,60.0,1,java|sql|agile|c++|python|communication,4.5,6.5
+HCL Technologies,Testing/QA,Tier 3,5.8,55.0,55.0,2,manual testing|c|sql|linux|jira,3.2,4.2
+Tech Mahindra,Cyber Security,Tier 3,6.0,60.0,60.0,1,networking|linux|information security|firewalls|python,3.6,5.0
