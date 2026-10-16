@@ -5,6 +5,7 @@ Module: ml/evaluate.py
 Purpose: Generates unified performance metrics comparison tables and exports
          diagnostic visualization plots for all 5 machine learning models.
 =============================================================================
+performance of ml model , create graph save in reports folder
 """
 
 import os
